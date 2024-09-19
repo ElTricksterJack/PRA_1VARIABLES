@@ -1,6 +1,3 @@
-# Echo por: Mguel Angel Ruvalcaba Valverde
-# -------------- Mr.INK ----------------
-
 X = 999999999#DAÑO CRITICO
 Y = 1#OKI, qui estanos definiendo variables
 print(X)#mostrar la variable en consola
