@@ -3,10 +3,14 @@
 
 X = 999999999#DAÑO CRITICO
 Y = 1#OKI, qui estanos definiendo variables
+
+print(" ")#estp es un espasio
+print("Miguel Angel Ruvalcaba Valverde")#y esto es una cadena de texto
+print(" ")
 print(X)#mostrar la variable en consola
 print(Y)
-
-print()#como no tiene nada no la detecta
+print(" ")
+print("Resultado: los valores elegidos fuerno mostrados en consola")
 
 """
 Agamos un pequeño analisis que les parese =)
@@ -23,6 +27,7 @@ ejemplo:
 x1 = 3321 -- BIEN
 tengo un programa donde esta mejor explicado
 """
-#zheahahhahaha que faisil
+#zheahahhahaha que recontra faisil
 
-![image](https://github.com/user-attachments/assets/bd923782-d0be-4de4-ac17-141bad36ef04)
+![image](https://github.com/user-attachments/assets/937e4638-bcf6-437e-8e7a-2f7f667f4843)
+
