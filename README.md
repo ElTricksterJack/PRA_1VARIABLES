@@ -5,12 +5,13 @@ X = 999999999#DAÑO CRITICO
 Y = 1#OKI, qui estanos definiendo variables
 
 print(" ")#estp es un espasio
-print("Miguel Angel Ruvalcaba Valverde")#y esto es una cadena de texto
+print("Ruvalcaba Valverde Miguel Angel ")#y esto es una cadena de texto
 print(" ")
 print(X)#mostrar la variable en consola
 print(Y)
 print(" ")
 print("Resultado: los valores elegidos fuerno mostrados en consola")
+print(" ")
 
 """
 Agamos un pequeño analisis que les parese =)
@@ -29,5 +30,6 @@ tengo un programa donde esta mejor explicado
 """
 #zheahahhahaha que recontra faisil
 
-![image](https://github.com/user-attachments/assets/937e4638-bcf6-437e-8e7a-2f7f667f4843)
+![image](https://github.com/user-attachments/assets/f107b572-c3ac-490f-ae23-941425deab22)
+
 
